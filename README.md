@@ -1,11 +1,11 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/fathom-hero-dark.svg">
-  <img alt="Utkarsh Singh: AI/ML Builder · Multimodal AI &amp; Agentic Systems. Cinematic title card: the camera descends onto a reef grown from the last 52 weeks of contributions, fish named after featured repositories swim past, and a depth gauge settles at 116 metres, the sunlit zone." src="./assets/fathom-hero-light.svg" width="100%">
+  <img alt="KRSHZ: AI/ML Builder · Multimodal AI &amp; Agentic Systems. Cinematic title card: the camera descends onto a reef grown from the last 52 weeks of contributions, fish named after featured repositories swim past, and a depth gauge settles at 117 metres, the sunlit zone." src="./assets/fathom-hero-light.svg" width="100%">
 </picture>
 </p>
 
-<p align="center"><b>Utkarsh Singh</b> · AI/ML Builder · Multimodal AI &amp; Agentic Systems</p>
+<p align="center"><b>KRSHZ</b> · AI/ML Builder · Multimodal AI &amp; Agentic Systems</p>
 <p align="center"><a href="https://utkarsh-singh-nine.vercel.app">utkarsh-singh-nine.vercel.app</a> &nbsp;·&nbsp; <a href="mailto:utkarshsingh2723@gmail.com">utkarshsingh2723@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/utkarsh-singh-7b0736381">LinkedIn</a></p>
 
 **On the surface.** B.Tech CSE (AI & ML) at KIET Group of Institutions. Building intelligent systems, multimodal vision for satellite imagery (SatQuery AI for ISRO / SIH 2026), and native Swift applications.
@@ -17,14 +17,14 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/fathom-log-dark.svg">
-  <img alt="The last 365 days as a dive: 116 metres down at one metre per contribution, reaching the sunlit zone. 31 active days, longest streak 4 days, longest break 80 days, 3 followers, 0 stars, 1 year on GitHub. Languages: TypeScript 33%, Jupyter Notebook 22%, Python 14%, JavaScript 9%, HTML 9%." src="./assets/fathom-log-light.svg" width="100%">
+  <img alt="The last 365 days as a dive: 117 metres down at one metre per contribution, reaching the sunlit zone. 31 active days, longest streak 4 days, longest break 80 days, 3 followers, 0 stars, 1 year on GitHub. Languages: TypeScript 33%, Jupyter Notebook 22%, Python 14%, JavaScript 9%, HTML 9%." src="./assets/fathom-log-light.svg" width="100%">
 </picture>
 </p>
 
 <details>
 <summary><sub>Reading the dive log</sub></summary>
 
-- **Depth:** one metre per contribution in the last 12 months. 116 m puts you in the sunlit zone. The zones are the ocean’s real ones: sunlit to 200 m, twilight to 1,000 m, midnight to 4,000 m, abyssal to 6,000 m and hadal below that, down to the Challenger Deep at 10,935 m.
+- **Depth:** one metre per contribution in the last 12 months. 117 m puts you in the sunlit zone. The zones are the ocean’s real ones: sunlit to 200 m, twilight to 1,000 m, midnight to 4,000 m, abyssal to 6,000 m and hadal below that, down to the Challenger Deep at 10,935 m.
 - **The descent:** your year as one dive, left to right. The line drops as contributions add up and runs flat through breaks. Each bubble is an active day; bigger bubbles are busier days.
 - **Logbook:** bottom time is active days, longest dive is the longest streak, safety stop is the longest break, visibility is followers, treasure is stars, and time in the water is years on GitHub.
 - **Species spotted:** language share by bytes across public repositories. The Latin is made up.
